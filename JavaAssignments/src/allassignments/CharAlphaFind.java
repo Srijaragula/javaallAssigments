@@ -13,7 +13,7 @@ public class CharAlphaFind {
 			System.out.println("it is an alphabet");
 		}
 		else if(ch>='0' && ch<='9') {
-			System.out.println("it is a digit");
+			System.out.println("it is a digit");//gyhyygfhygfhy 
 		}
 		else {
 			System.out.println("it is a special character");
