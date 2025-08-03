@@ -7,7 +7,7 @@ public class IfCondition {
 		if(bal_amount>=withdraw_amt)
 		{
 			bal_amount-=withdraw_amt;
-			System.out.println("balance:"+bal_amount);
+			System.out.println("balance:"+bal_amount);//kjbjhbj
 		}
 	}
 
