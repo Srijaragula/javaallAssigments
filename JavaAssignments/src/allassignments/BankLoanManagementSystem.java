@@ -11,7 +11,7 @@ public class BankLoanManagementSystem {
 		String fullName="";
 		String adress="";
 		String phoneNumber="";
-		double annualIncome = 0;
+		double annualIncome = 0;//;ok;lklkm
 		int loginAttempts = 0;
 		boolean isLocked = false;
 		boolean isRegistered = false;
