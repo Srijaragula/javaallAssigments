@@ -9,7 +9,7 @@ public class StudentMarks {
 		int m1=sc.nextInt();
 		int m2=sc.nextInt();
 		int m3=sc.nextInt();
-		int m4=sc.nextInt();
+		int m4=sc.nextInt();//jknjknkjn
 		int m5=sc.nextInt();
 		
 		int total=m1+m2+m3+m4+m5;
