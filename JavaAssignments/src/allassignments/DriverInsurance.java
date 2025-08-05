@@ -5,7 +5,7 @@ public class DriverInsurance {
 	public static void main(String[] args) {
 		
 		String gender="Female";//"male" or "female"
-		boolean married=true;// ture ot false
+		boolean married=true;// ture ot false//t or f
 		int age=31;
 		if(married) {
 			System.out.println("driver is married");//jhbjhb
