@@ -6,7 +6,7 @@ public class Employeee {
 	int empid=180;
 	String empname="srija";
 	//predefined static method//srija
-	public static void main(String args[]) {
+	public static void main(String args[]) {//jhjrhdfjerhgfrv
 		//use inside the ststic methd
 		//object creation
 		Employeee e=new Employeee();
