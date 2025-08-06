@@ -9,7 +9,7 @@ public class IfElseIfLadder {
 			price=units*1.0f;
 		else if(units>100 && units<=200)
 			price=units*2.0f;
-		else if(units>200 && units<=300)
+		else if(units>200 && units<=300)//jhj
 			price=units*3.0f;
 		else
 			price=units*5.0f;
