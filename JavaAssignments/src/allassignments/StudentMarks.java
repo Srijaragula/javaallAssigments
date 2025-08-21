@@ -6,7 +6,7 @@ public class StudentMarks {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter marks for 5 subjects:");
-		int m1=sc.nextInt();
+		int m1=sc.nextInt();//jhgvhn
 		int m2=sc.nextInt();
 		int m3=sc.nextInt();
 		int m4=sc.nextInt();//jknjknkjn
