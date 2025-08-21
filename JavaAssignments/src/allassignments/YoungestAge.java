@@ -10,7 +10,7 @@ public class YoungestAge {
 		
 		if(age1<age2 && age1<age3) {
 			youngest=age1;
-		}	else if(age2<age1 && age2<age3) {
+		}	else if(age2<age1 && age2<age3) {//bjhb jhmb
 			youngest=age2;
 		}		else {
 			youngest=age3;
