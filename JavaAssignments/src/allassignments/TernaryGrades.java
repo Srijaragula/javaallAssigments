@@ -1,6 +1,6 @@
 package allassignments;
 
-public class TernaryGrades {
+public class TernaryGrades {/uguh
 
 	public static void main(String[] args) {
 		int marks = 85;
