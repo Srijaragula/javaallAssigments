@@ -6,7 +6,7 @@ public class WhileCount {
 		int n=234788959;
 		int count=0;
 		while(n>0) {//hbjhb
-			n=n/10;
+			n=n/10;//jnkjn
 			count++;
 		}
 		System.out.println("count"+count);
