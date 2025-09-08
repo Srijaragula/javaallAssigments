@@ -8,7 +8,7 @@ public class MonthSwitch {
 		System.out.println("Enter months from 1-12");
 		int m=sc.nextInt();
 		
-		String name;
+		String name;//jnkj
 		switch (m) {
 		case 1:
 			name="january";
