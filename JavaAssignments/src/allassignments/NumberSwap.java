@@ -8,7 +8,7 @@ public class NumberSwap {
 		
 		a=a^b;
 		b=a^b;
-		a=a^b;
+		a=a^b;//jnkj
 		System.out.println("a="+a+", "+"b ="+b);
 	}
 
