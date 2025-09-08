@@ -7,7 +7,7 @@ public class MovieNestedIf {
         String day = "weekday";
 
         if (day.equals("weekend")) {
-            System.out.println("Inside if");//kjhjkn
+            System.out.println("Inside if");//k
             if (age > 0) {
                 if (age < 13) {
                     price = 40;
