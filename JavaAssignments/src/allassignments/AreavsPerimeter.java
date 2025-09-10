@@ -4,7 +4,7 @@ public class AreavsPerimeter {
 
 	public static void main(String[] args) {
 		int length=20;
-		int breadth=30;
+		int breadth=30;//kj
 		
 		int area=length*breadth;
 		int perimeter=2*(length+breadth);
