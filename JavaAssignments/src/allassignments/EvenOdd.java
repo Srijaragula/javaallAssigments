@@ -2,7 +2,7 @@ package allassignments;
 
 public class EvenOdd {
 
-	public static void main(String[] args) {//hjhfjrhbfhrj
+	public static void main(String[] args) {//hj
 		int a=6;
 		if(a%2==0){
 			System.out.println("even");//even
