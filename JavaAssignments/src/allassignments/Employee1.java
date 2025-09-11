@@ -6,7 +6,7 @@ public class Employee1 {
 	private float esalary;
 	class Person extends Employee1{
 		private float esalary;
-		Person(int id,String name,float salary){
+		Person(int id,String name,float salary){//hu
 			empid=id;
 			ename=name;
 			esalary=salary;
