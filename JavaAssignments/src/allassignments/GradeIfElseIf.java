@@ -10,7 +10,7 @@ public class GradeIfElseIf {
 		else if(total>=400 && total<500)
 			grade='B';//jnjbhb
 		else if(total>=300 && total<400)
-			grade='C';
+			grade='C';//jjj
 		else if(total<300)
 			grade='D';
 		System.out.println("Grade is:" +grade);
