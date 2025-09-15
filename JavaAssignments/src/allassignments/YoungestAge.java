@@ -2,7 +2,7 @@ package allassignments;
 
 public class YoungestAge {
 
-	public static void main(String[] args) {/kjn
+	public static void main(String[] args) {/k
 		int age1=20;
 		int age2=10;
 		int age3=3;
