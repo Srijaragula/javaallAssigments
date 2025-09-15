@@ -11,7 +11,7 @@ public class WeekDay {
 		String day;
 		switch (dayNum){
 		case 1:
-			day ="Monday";//jhgjhgj
+			day ="Monday";//j
 			break;
 		case 2:
 			day ="tues";
