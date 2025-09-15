@@ -3,7 +3,7 @@ package allassignments;
 public class Swap2Num {
 
 	public static void main(String[] args) {
-		int r=10; //hg
+		int r=10; //h
 		int s=20;
 		r=r^s;
 		s=r^s;
