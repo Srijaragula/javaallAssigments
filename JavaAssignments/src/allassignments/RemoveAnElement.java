@@ -1,6 +1,6 @@
 package allassignments;
 
-public class RemoveAnElement {
+public class RemoveAnElement {//jk
 
 	public static void main(String[] args) {
 		int[] arr= {20,30,40,80,90};
