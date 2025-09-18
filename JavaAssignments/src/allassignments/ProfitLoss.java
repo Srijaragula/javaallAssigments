@@ -16,7 +16,7 @@ public class ProfitLoss {
 			System.out.println("profit" +profit);
 		
 		}else if(cp>sp){
-			double loss=cp-sp;
+			double loss=cp-sp;//sp
 			System.out.println("loss" +loss);
 		}else {
 			System.out.println("no profit no loss");
