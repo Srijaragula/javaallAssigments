@@ -1,6 +1,6 @@
 package allassignments;
 
-public class ElementAtFirst {//jhj
+public class ElementAtFirst {//j
 
 	public static void main(String[] args) {
 		int[] r= {23,25,68,49,50};
