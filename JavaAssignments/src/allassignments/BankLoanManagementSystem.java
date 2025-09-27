@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class BankLoanManagementSystem {
 
 	public static void main(String[] args) {
-		Scanner sc=new Scanner(System.in);//jhj
+		Scanner sc=new Scanner(System.in);//j
 		
 		String registeredUsername="";
 		String registeredPassword="";
