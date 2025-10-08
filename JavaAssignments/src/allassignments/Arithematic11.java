@@ -2,7 +2,7 @@ package allassignments;
 
 public class Arithematic11 {
 
-	public static void main(String[] args) {//hb
+	public static void main(String[] args) {//hb 
 		int a=2;
 		int b=4;//fg 
 		System.out.println("Additon of two numbers is:"+(a+b));
