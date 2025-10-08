@@ -3,7 +3,7 @@ package allassignments;
 public class Factorial1 {
 
 	public static void main(String[] args) {//j
-		int n=5;
+		int n=5; 
 		int fact=1;
 		for(int i=1;i<=5;i++) {
 			fact=fact*i;
