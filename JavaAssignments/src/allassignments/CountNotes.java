@@ -5,7 +5,7 @@ public class CountNotes {
 
 	public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in); 
-    System.out.print("Enter amount: ");//k
+    System.out.print("Enter amount: ");//
     int amount = sc.nextInt();
     sc.close();
 
