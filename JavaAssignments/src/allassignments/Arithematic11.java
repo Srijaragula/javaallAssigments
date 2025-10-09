@@ -1,6 +1,6 @@
 package allassignments;
 
-public class Arithematic11 {
+public class Arithematic11 { 
 
 	public static void main(String[] args) {//hb 
 		int a=2;
