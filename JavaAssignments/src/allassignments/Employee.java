@@ -1,6 +1,6 @@
 package allassignments;
 
-public class Employee { 
+public class Employee {  
 
 	static String companyname="LTTS";//l&t
 	public static void main(String[] args) {
