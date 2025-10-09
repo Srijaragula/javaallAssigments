@@ -1,6 +1,6 @@
 package allassignments;
 
-public class Average2 {
+public class Average2 { 
 
 	public static void main(String[] args) {
 		int a=1;
