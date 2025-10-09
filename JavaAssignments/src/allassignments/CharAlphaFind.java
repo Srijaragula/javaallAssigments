@@ -1,7 +1,7 @@
 package allassignments;
 import java.util.*;
 
-public class CharAlphaFind {//j
+public class CharAlphaFind {//
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
