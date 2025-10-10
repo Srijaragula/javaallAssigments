@@ -1,6 +1,6 @@
 package allassignments;
 
-public class AreavsPerimeter {
+public class AreavsPerimeter { 
 
 	public static void main(String[] args) {
 		int length=20;
