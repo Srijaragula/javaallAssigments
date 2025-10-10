@@ -6,9 +6,9 @@ public class DriverInsurance {
 		
 		String gender="Female";//"male" or "female"//uh 
 		boolean married=true;// ture ot false
-		int age=31;//uhujh
+		int age=31;
 		if(married) {
-			System.out.println("driver is married");//jhbjhb
+			System.out.println("driver is married");
 		}
 		else if(gender.equalsIgnoreCase("male") && age>30) {
 			System.out.println("the driver is insured and unmarried male above age 30.");
