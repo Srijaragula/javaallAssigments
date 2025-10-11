@@ -1,5 +1,5 @@
 package allassignments;
-import java.util.*;//hjh
+import java.util.*;
 public class Addition {
 //Assignment//jbhf
 	public static void main(String[] args) {
