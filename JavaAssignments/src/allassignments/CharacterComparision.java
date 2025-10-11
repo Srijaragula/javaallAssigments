@@ -14,7 +14,7 @@ public class CharacterComparision {
 		
 		if(ch1>ch2) {
 			System.out.println("ch1 is greater");
-		}
+		} 
 		else {
 			System.out.println("ch2 is greater");
 		}
