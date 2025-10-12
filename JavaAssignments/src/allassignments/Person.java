@@ -3,7 +3,7 @@ package allassignments;
 public class Person {
 	private String name;
 	private int age;
-	Person(String a,int b){//bv
+	Person(String a,int b){
 		name=a;
 		age=b;
 		
