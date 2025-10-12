@@ -1,7 +1,7 @@
 package allassignments;
 
 public class PerfectNumber {
-	public static void main(String args[]) {
+	public static void main(String args[]) { 
 	int num=9;//jn
 	int sum=0;
 	//perfect number
