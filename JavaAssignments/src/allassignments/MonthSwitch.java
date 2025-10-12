@@ -2,7 +2,7 @@ package allassignments;
 import java.util.*;
 
 public class MonthSwitch {
-
+ 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);//kjbhkjb
 		System.out.println("Enter months from 1-12");
