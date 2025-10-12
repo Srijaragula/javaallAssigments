@@ -3,7 +3,7 @@ package allassignments;
 public class StaticMethod {
 	//ststic mthod
 	//global variaqble
-	static String companyname;
+	static String companyname; 
 	//static block
 	static {
 		System.out.println("inside the block");
