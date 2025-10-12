@@ -2,7 +2,7 @@ package allassignments;
 
 public class Rectangle {
 	private double length;
-	private double width;//mk
+	private double width;
 	double Area;
 	Rectangle(double l,double w){
 		length=l;
