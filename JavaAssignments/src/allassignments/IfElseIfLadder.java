@@ -2,7 +2,7 @@ package allassignments;
 
 public class IfElseIfLadder {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		int units =120;
 		float price=0.0f;
 		if(units>=10 && units<=100)
