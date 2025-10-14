@@ -4,7 +4,7 @@ public class GradeIfElseIf {
 
 	public static void main(String[] args) {
 		int total=560;
-		char grade=' ';
+		char grade=' '; 
 		if(total>=500 && total<=600)//600
 			grade='A';
 		else if(total>=400 && total<500)
