@@ -4,7 +4,7 @@ public class StaticBlock {
 	static String companyname; 
 	static {
 		System.out.println("Inside the block");
-		companyname="TCS";
+		companyname="TCS"; 
 	}
 	static {
 		System.out.println("ststic block2");
