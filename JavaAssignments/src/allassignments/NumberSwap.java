@@ -2,9 +2,9 @@ package allassignments;
 
 public class NumberSwap {
  
-	public static void main(String[] args) {//jnn
+	public static void main(String[] args) {
 		int a=3;
-		int b=6;
+		int b=6; 
 		
 		a=a^b;
 		b=a^b;
