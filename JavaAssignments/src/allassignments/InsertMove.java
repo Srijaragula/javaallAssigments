@@ -1,7 +1,7 @@
 package allassignments;
 
 import java.lang.reflect.Array;
-
+ 
 public class InsertMove {
 
 	public static void main(String[] args) {
