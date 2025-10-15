@@ -1,7 +1,7 @@
 package allassignments;
 
 public class Employeee { 
-	//Global variables
+	//Global variables 
 	//instance variables
 	int empid=180;
 	String empname="srija";
