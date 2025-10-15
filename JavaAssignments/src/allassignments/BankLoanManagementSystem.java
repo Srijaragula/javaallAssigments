@@ -1,6 +1,6 @@
 package allassignments;
 import java.util.Scanner;
- 
+  
 public class BankLoanManagementSystem { 
 
 	public static void main(String[] args) {
