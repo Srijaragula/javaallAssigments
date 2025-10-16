@@ -2,7 +2,7 @@ package allassignments;
  
 public class DriverInsurance {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		
 		String gender="Female";//"male" or "female" 
 		boolean married=true;// ture ot false
