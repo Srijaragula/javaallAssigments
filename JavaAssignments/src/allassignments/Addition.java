@@ -3,7 +3,7 @@ import java.util.*;
 public class Addition {
 //Assignment
 	public static void main(String[] args) {
-		Scanner sc=new Scanner(System.in);
+		Scanner sc=new Scanner(System.in); 
 		int a,b,c;
 		System.out.println("enter two numbers");
 		a=sc.nextInt();
