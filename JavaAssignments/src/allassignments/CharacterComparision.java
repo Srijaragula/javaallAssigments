@@ -1,7 +1,7 @@
 package allassignments;
  
 public class CharacterComparision { 
- 
+  
 	public static void main(String[] args) {  
 		char ch1='2';
 		char ch2='5';
