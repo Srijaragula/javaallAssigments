@@ -1,6 +1,5 @@
 package allassignments;
 import java.util.*; 
- 
 public class CharAlphaFind { 
 
 	public static void main(String[] args) { 
