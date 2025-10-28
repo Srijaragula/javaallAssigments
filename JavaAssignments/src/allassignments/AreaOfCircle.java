@@ -1,5 +1,4 @@
 package allassignments;
- 
 public class AreaOfCircle { 
 	public static void main(String[] args) { 
 		int r=4;  
