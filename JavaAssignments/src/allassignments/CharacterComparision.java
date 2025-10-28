@@ -9,7 +9,6 @@ public class CharacterComparision {
 		if(ch1==ch2) {
 			System.out.println("Both characters are same");
 		}
-		
 		if(ch1>ch2) {
 			System.out.println("ch1 is greater");
 		} 
