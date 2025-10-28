@@ -29,8 +29,7 @@ public class BankLoanManagementSystem {
 				if(registeredPassword.length()<8) {
 					System.out.println("password is too short!");
 					continue;
-				}
-				
+				}	
 				System.out.println("enter full name: ");
 				fullName=sc.nextLine();
 				System.out.println("Enter adress: ");
