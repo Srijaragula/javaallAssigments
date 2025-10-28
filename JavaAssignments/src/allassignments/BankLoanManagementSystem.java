@@ -12,7 +12,6 @@ public class BankLoanManagementSystem {
 		int loginAttempts = 0;
 		boolean isLocked = false;
 		boolean isRegistered = false;
-		
 		while(true) {
 			System.out.println("\n--------Bank Loan Management Menu----");
 			System.out.println("1.Register");
