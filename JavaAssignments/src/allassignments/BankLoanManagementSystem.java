@@ -19,8 +19,7 @@ public class BankLoanManagementSystem {
 			System.out.println("1.Exit");
 			System.out.println("Choose an Option");
 			int option = sc.nextInt();
-			sc.nextLine();
-			
+			sc.nextLine();	
 			if(option==1) {
 				System.out.println("Enter username:");
 				registeredUsername =sc.nextLine();
