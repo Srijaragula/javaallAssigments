@@ -40,8 +40,7 @@ public class BankLoanManagementSystem {
                 annualIncome = sc.nextDouble();
                 sc.nextLine();
 			}
-		}
-	     	
+		}    	
 	}
 
 }
