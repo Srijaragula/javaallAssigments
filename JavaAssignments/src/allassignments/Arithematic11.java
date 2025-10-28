@@ -8,5 +8,4 @@ public class Arithematic11 {
 		System.out.println("Division of two numbers is:"+(a/b));
 		System.out.println("Remainder of two numbers is:"+(a%b));
 	}
-
 }
