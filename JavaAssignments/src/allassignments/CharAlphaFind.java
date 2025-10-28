@@ -1,7 +1,6 @@
 package allassignments;
 import java.util.*; 
 public class CharAlphaFind {  
-
 	public static void main(String[] args) { 
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter a single value:");
@@ -17,7 +16,5 @@ public class CharAlphaFind {
 		else {
 			System.out.println("it is a special character");
 		}
-
 	}
-
 }
