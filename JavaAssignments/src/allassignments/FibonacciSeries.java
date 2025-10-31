@@ -1,6 +1,6 @@
 package allassignments;
 
-public class FibonacciSeries {
+public class FibonacciSeries { 
    
 	public static void main(String[] args) {
 		//Addition of last two numbers is  the next number
