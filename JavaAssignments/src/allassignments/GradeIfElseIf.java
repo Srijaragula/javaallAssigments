@@ -1,7 +1,7 @@
 package allassignments;
 
 public class GradeIfElseIf {
-
+ 
 	public static void main(String[] args) {
 		int total=560; 
 		char grade=' '; 
