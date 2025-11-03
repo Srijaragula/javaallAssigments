@@ -4,7 +4,6 @@ public class AreaOfCircle {
 		int r=4;  
 		double area=3.14*r*r; 
 		System.out.println("area is:"+area);
-
 	}
 
 }
