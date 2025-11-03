@@ -9,8 +9,6 @@ public class Assign2 {
 		System.out.println(e); 
 		
 		
-		
-
 	}
 
 }
