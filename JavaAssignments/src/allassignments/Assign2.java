@@ -7,8 +7,7 @@ public class Assign2 {
 		int d=c%5;  
 		int e=d*5;
 		System.out.println(e); 
-		
-		
+			
 	}
 
 }
