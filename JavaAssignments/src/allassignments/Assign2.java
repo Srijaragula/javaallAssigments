@@ -8,5 +8,4 @@ public class Assign2 {
 		int e=d*5;
 		System.out.println(e); 		
 	}
-
 }
