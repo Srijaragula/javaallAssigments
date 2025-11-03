@@ -14,7 +14,6 @@ public class AreavsPerimeter {
 		}else {
 			System.out.println("both are equal");
 		}
-
 	}
 
 }
