@@ -3,7 +3,7 @@ package allassignments;
 public class Employeee { 
 	//Global variables  
 	//instance variables  
-	int empid=180;
+	int empid=180; 
 	String empname="srija"; 
 	//predefined static method//srija
 	public static void main(String args[]) { 
