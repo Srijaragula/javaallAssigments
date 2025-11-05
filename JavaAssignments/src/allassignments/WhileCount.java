@@ -1,6 +1,6 @@
 package allassignments;
 
-public class WhileCount {
+public class WhileCount { 
  
 	public static void main(String[] args) {
 		int n=234788959;
