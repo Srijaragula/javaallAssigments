@@ -3,7 +3,7 @@ import java.util.*;
 public class CharAlphaFind {   
 	public static void main(String[] args) { 
 		Scanner sc=new Scanner(System.in);  
-		System.out.println("Enter a single value:"); 
+		System.out.println("Enter a single value:");  
 		String input=sc.next();  
 		char ch=input.CharAt(0);
 		if((ch>='A' && ch<='Z') || (ch>='a' && ch<='z')) {
