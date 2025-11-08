@@ -9,7 +9,7 @@ public class MonthSwitch {
 		int m=sc.nextInt();
 		
 		String name;//jnkj
-		switch (m) {
+		switch (m) { 
 		case 1:
 			name="january";
 			break;
