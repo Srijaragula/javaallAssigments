@@ -4,7 +4,7 @@ public class BankLoanManagementSystem {
 	public static void main(String[] args) { 
 		Scanner sc=new Scanner(System.in); 
 		String registeredUsername="";   
-		String registeredPassword="";
+		String registeredPassword=""; 
 		String fullName="";
 		String adress="";
 		String phoneNumber="";
