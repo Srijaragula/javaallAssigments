@@ -6,3 +6,4 @@ public class AreaOfCircle {
 		System.out.println("area is:"+area);
 	}
 }
+ 
