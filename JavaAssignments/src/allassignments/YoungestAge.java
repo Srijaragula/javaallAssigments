@@ -4,7 +4,7 @@ public class YoungestAge {
 
 	public static void main(String[] args) { 
 		int age1=20;
-		int age2=10;
+		int age2=10; 
 		int age3=3;
 		int youngest;
 		
