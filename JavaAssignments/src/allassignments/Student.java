@@ -1,6 +1,6 @@
 package allassignments;
 
-public class Student { 
+public class Student {  
 	private String name;
 	private int age;
 	private double GPA=0.0;
