@@ -2,7 +2,7 @@ package allassignments;
  
 public class StaticMethod {
 	//ststic mthod
-	//global variaqble
+	//global variaqble 
 	static String companyname;  
 	//static block
 	static {
