@@ -1,6 +1,6 @@
 package allassignments;
 import java.util.*;
-
+ 
 public class WeekDay { 
 
 	public static void main(String[] args) { 
