@@ -1,5 +1,5 @@
 package allassignments;
-
+  
 import java.util.Scanner;
 
 public class MaxMin {
