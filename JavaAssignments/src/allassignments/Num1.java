@@ -8,6 +8,6 @@ public class Num1 {
 	       int z = x++ + ++y;   
 	       System.out.println(z); 
 		
-	}
+	} 
 
 }
