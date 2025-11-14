@@ -7,7 +7,7 @@ public class PerfectNumber {
 	//perfect number
 	//sum of its multiples equal to its actual numbers 
 	
-	for(int i =1;i<=num;i++) {
+	for(int i =1;i<=num;i++) { 
 		if(num%i==0)
 		{
 			sum+=i;
