@@ -13,7 +13,7 @@ public class MovieNestedIf {
                     price = 40;
                 } else if (age > 65) {
                     price = 30;
-                } else {
+                } else { 
                     price = 100;
                 }
             } else {
