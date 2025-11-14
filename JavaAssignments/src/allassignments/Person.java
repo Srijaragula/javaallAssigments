@@ -13,7 +13,7 @@ public class Person {
 		System.out.println("name:"+name);
 		System.out.println("age:"+age);
 		
-	}
+	} 
 	public static void main(String args[]) {
 		Person p=new Person("srija",22);
 		p.introduce();
