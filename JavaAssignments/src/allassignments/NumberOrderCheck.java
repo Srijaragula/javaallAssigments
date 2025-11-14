@@ -5,7 +5,7 @@ public class NumberOrderCheck {
 	public static void main(String[] args)  
 		int num1=20;
 		int num2=80;
-		int num3=70;
+		int num3=70; 
 		
        if(num1<num2 && num2<num3) {//jnj
     	   System.out.println("numbers are in increasing order");
