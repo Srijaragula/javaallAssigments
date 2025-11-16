@@ -2,7 +2,7 @@ package allassignments;
 
 public class Student {  
 	private String name;
-	private int age;
+	private int age; 
 	private double GPA=0.0;
 	Student(String n,int a,double g){ 
 		name=n;
