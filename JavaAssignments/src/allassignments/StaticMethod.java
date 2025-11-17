@@ -1,5 +1,5 @@
 package allassignments;
- 
+  
 public class StaticMethod {
 	//ststic mthod
 	//global variaqble 
