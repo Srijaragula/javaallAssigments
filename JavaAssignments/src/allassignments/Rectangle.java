@@ -6,7 +6,7 @@ public class Rectangle {
 	double Area;
 	Rectangle(double l,double w){ 
 		length=l;
-		width=w;
+		width=w; 
 		
 	}
 	public double calculateArea() {
