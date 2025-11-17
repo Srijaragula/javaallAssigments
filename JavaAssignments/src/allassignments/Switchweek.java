@@ -7,7 +7,7 @@ public class Switchweek {
 		String result=switch(day) {
 		case 1->"Monday";
 		case 2->"Tuesday";
-		case 3->"wednesday";
+		case 3->"wednesday"; 
 		case 4->"Thursday";
 		case 5->"Friday";
 		case 6->"saturday";
