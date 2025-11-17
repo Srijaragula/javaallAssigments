@@ -1,6 +1,6 @@
 package allassignments;
 
-public class StaticBlock { 
+public class StaticBlock {  
 	static String companyname; 
 	static {
 		System.out.println("Inside the block"); 
