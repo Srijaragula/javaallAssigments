@@ -9,7 +9,7 @@ public class ShoppingIfElse {
 		}
 		else 
 			System.out.println("no discount");
-			System.out.println("total amount " +total);
+			System.out.println("total amount " +total); 
 		
 
 	}
