@@ -1,7 +1,7 @@
 package allassignments;
 import java.util.*; 
  
-public class StudentMarks {
+public class StudentMarks { 
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
