@@ -7,7 +7,7 @@ public class ElectricityBill {
 	public static void main(String[] args) {  
 		
 			        Scanner sc = new Scanner(System.in);
- 
+  
 		        // Input: number of units consumed
 		        System.out.print("Enter the number of units consumed: ");
 		        int units = sc.nextInt();
