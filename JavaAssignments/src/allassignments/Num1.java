@@ -9,5 +9,5 @@ public class Num1 {
 	       System.out.println(z); 
 		
 	} 
-
+ 
 }
