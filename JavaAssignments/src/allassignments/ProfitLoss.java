@@ -5,7 +5,7 @@ public class ProfitLoss {
   
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		
+		 
 		System.out.println("cost price:");
 		System.out.println("selling price:");
 		double cp=sc.nextDouble(); 
