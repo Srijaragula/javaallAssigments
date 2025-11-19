@@ -1,7 +1,7 @@
 package allassignments;
 
 public class Person {
-	private String name; 
+	private String name;  
 	private int age;
 	Person(String a,int b){
 		name=a;
