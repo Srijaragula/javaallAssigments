@@ -1,6 +1,6 @@
 package allassignments;
 public class AreavsPerimeter {    
-	public static void main(String[] args) {   
+	public static void main(String[] args) {    
 		int length=20; 
 		int breadth=30;
 		int area=length*breadth;  
