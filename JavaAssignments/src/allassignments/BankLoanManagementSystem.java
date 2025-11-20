@@ -6,7 +6,7 @@ public class BankLoanManagementSystem {
 		String registeredUsername="";    
 		String registeredPassword=""; 
 		String fullName="";
-		String adress="";
+		String adress=""; 
 		String phoneNumber="";
 		double annualIncome = 0;
 		int loginAttempts = 0;
