@@ -1,6 +1,6 @@
 package allassignments;
 
-public class Employeee { 
+public class Employeee {  
 	//Global variables  
 	//instance variables  
 	int empid=180; 
