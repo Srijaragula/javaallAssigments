@@ -3,7 +3,7 @@ package allassignments;
 public class Employee1 { 
 	int empid;   
 	String ename;  
-	private float esalary;
+	private float esalary; 
 	class Person extends Employee1{ 
 		private float esalary;
 		Person(int id,String name,float salary){
