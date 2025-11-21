@@ -5,7 +5,7 @@ public class GreatestOf4 {
 	public static void main(String[] args) {
 		int num1 = 25;
         int num2 = 78;
-        int num3 = 12;//iuh
+        int num3 = 12;
         int num4 = 90;
 
         int greatest = (num1 > num2 ?
