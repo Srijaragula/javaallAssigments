@@ -8,7 +8,7 @@ public class SumOfThreeAngles {
 		int ang3=75; 
 		
 		int sum=ang1+ang2+ang3;
-		
+		 
 		if(sum==180) {
 			System.out.println("angles form a valid traingle");
 		}else {
