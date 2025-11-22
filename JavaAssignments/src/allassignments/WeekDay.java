@@ -8,7 +8,7 @@ public class WeekDay {
 		System.out.println("Enter the day number(1-7) :");
 		int dayNum=sc.nextInt(); 
 		
-		String day;
+		String day; 
 		switch (dayNum){
 		case 1:
 			day ="Monday";//j
