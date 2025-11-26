@@ -1,7 +1,7 @@
 package allassignments;
  
 public class YoungestAge { 
-
+ 
 	public static void main(String[] args) { 
 		int age1=20;
 		int age2=10; 
