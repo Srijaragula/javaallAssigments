@@ -6,7 +6,7 @@ public class VowelConsonant {
 		char ch='e';    
 		if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u') { 
 			System.out.println("character is vowel"); 
-		}
+		} 
 		else {
 			System.out.println("character is consonant");
 		}
