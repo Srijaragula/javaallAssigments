@@ -8,7 +8,7 @@ public class IfCondition {
 		{
 			bal_amount-=withdraw_amt;
 			System.out.println("balance:"+bal_amount);//kjbjhbj
-		}
+		} 
 	}
 
 }
