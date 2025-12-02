@@ -9,7 +9,7 @@ public class VowelConsonant {
 		} 
 		else {
 			System.out.println("character is consonant");
-		}
+		} 
 		
 
 	}
