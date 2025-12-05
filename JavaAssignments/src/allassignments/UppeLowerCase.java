@@ -9,7 +9,7 @@ public class UppeLowerCase {
 		        String input = sc.next();
 		        sc.close();
  
-		        if (input.length() != 1) {
+		        if (input.length() != 1) { 
 		            System.out.println("Invalid input: please enter exactly one character.");
 		            return;
 		        }
