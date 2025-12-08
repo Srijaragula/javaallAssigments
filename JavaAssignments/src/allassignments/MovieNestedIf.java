@@ -2,7 +2,7 @@ package allassignments;
 
 public class MovieNestedIf { 
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         int age = 25, price = 0; 
         String day = "weekday";
   
