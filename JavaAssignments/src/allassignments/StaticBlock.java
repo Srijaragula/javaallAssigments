@@ -3,7 +3,7 @@ package allassignments;
 public class StaticBlock {  
 	static String companyname; 
 	static {
-		System.out.println("Inside the block");  
+		System.out.println("Inside the block");   
 		companyname="TCS"; 
 	}
 	static {
