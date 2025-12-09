@@ -1,5 +1,5 @@
 package allassignments;
- 
+  
 public class SumOfThreeAngles {  
       
 	public static void main(String[] args) { 
