@@ -1,5 +1,5 @@
 package allassignments; 
- 
+  
 public class TernaryGrades {   
        
 	public static void main(String[] args) { 
