@@ -1,6 +1,6 @@
 package allassignments;
  
-public class Switchweek {    
+public class Switchweek {     
  
 	public static void main(String[] args) {  
 		int day =2;    
