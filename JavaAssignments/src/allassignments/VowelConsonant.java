@@ -1,6 +1,6 @@
 package allassignments;
  
-public class VowelConsonant {    
+public class VowelConsonant {     
    
 	public static void main(String[] args) { 
 		char ch='e';     
