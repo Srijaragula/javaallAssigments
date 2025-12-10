@@ -6,7 +6,7 @@ public class YoungestAge {
 		int age1=20;
 		int age2=10;  
 		int age3=3;  
-		int youngest;  
+		int youngest;   
 		 
 		if(age1<age2 && age1<age3) {
 			youngest=age1;
