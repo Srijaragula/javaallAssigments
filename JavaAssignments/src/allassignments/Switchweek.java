@@ -1,5 +1,5 @@
 package allassignments;
- 
+  
 public class Switchweek {     
  
 	public static void main(String[] args) {  
