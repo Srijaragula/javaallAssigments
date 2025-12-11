@@ -1,6 +1,6 @@
 package allassignments;
 
-public class Swap2Num {
+public class Swap2Num { 
   
 	public static void main(String[] args) {   
 		int r=10;    
