@@ -2,7 +2,7 @@ package allassignments;
   
 public class SumOfThreeAngles {  
        
-	public static void main(String[] args) { 
+	public static void main(String[] args) {  
 		int ang1=60; 
 		int ang2=90;  
 		int ang3=75;  
