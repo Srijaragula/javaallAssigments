@@ -3,7 +3,7 @@ import java.util.*;
   
 public class StudentMarks { 
  
-	public static void main(String[] args) { 
+	public static void main(String[] args) {  
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter marks for 5 subjects:");
 		int m1=sc.nextInt();
