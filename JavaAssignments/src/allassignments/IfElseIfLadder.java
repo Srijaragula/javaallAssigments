@@ -1,5 +1,5 @@
 package allassignments;
-
+ 
 public class IfElseIfLadder { 
  
 	public static void main(String[] args) { 
