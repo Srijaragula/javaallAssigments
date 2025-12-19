@@ -7,7 +7,7 @@ public class UnaryOperator {
 		b=a++ + --a;  
 		System.out.println("A value is"+a);
 		System.out.println("B value is"+b); 
-		c=++b + a++ - ++a; 
+		c=++b + a++ - ++a;  
 		System.out.println("A value is:"+a);
 		System.out.println("B value is:"+b);
 		System.out.println("C value is:"+c);
