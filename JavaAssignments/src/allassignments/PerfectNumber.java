@@ -2,7 +2,7 @@ package allassignments;
 
 public class PerfectNumber {
 	public static void main(String args[]) { 
-	int num=9;//jn
+	int num=9; //jn
 	int sum=0; 
 	//perfect number
 	//sum of its multiples equal to its actual numbers 
