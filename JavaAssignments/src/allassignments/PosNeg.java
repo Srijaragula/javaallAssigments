@@ -1,6 +1,6 @@
 package allassignments;
 
-public class PosNeg { 
+public class PosNeg {  
  
 	public static void main(String[] args) {
 		int a=-98;
