@@ -1,4 +1,4 @@
- package allassignments;
+ package allassignments; 
 import java.util.*;   
      
 public class UppeLowerCase {    
