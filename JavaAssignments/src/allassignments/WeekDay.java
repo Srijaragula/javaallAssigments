@@ -13,7 +13,7 @@ public class WeekDay {
 		case 1:
 			day ="Monday";//j
 			break;
-		case 2:
+		case 2: 
 			day ="tues";
 			break;
 		case 3:
