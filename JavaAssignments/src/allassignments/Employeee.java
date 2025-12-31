@@ -5,7 +5,7 @@ public class Employeee {
 	//instance variables   
 	int empid=180; 
 	String empname="srija"; 
-	//predefined static method//srija
+	//predefined static method 
 	public static void main(String args[]) { 
 		//use inside the ststic methd
 		//object creation
