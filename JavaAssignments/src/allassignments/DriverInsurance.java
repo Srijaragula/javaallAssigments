@@ -1,6 +1,6 @@
 package allassignments; 
  
-public class DriverInsurance {
+public class DriverInsurance { 
    
 	public static void main(String[] args) {      
 		   
