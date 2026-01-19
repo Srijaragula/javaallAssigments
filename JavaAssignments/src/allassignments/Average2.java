@@ -7,6 +7,6 @@ public class Average2 {
 		int d=4;
 		int e=5;
 		float num=(a+b+c+d+e)/5; 
-		System.out.println("Average of 5 numbers :"+num);
+		System.out.println("Average of 5 numbers :"+num); 
 	}
 }
