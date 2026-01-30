@@ -1,5 +1,5 @@
 package allassignments; 
-
+ 
 public class GreatestOf4 {
 
 	public static void main(String[] args) { 
