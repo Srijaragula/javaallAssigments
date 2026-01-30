@@ -6,5 +6,5 @@ public class Employee {
 	public static void main(String[] args) {  
 		System.out.println("companyname "+companyname);
 		System.out.println("name: "+Employee.companyname);
-	}
+	 }
 }
