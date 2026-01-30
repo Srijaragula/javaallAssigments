@@ -1,5 +1,5 @@
 package allassignments; 
- 
+  
 public class Employee1 { 
 	int empid;     
 	String ename;  
