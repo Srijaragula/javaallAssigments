@@ -2,7 +2,7 @@ package allassignments;
 
 public class GradeIfElseIf {
   
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		int total=560;  
 		char grade=' '; 
 		if(total>=500 && total<=600)//600
