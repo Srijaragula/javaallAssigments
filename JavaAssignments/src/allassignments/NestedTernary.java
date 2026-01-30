@@ -1,6 +1,6 @@
 package allassignments;
 
-public class NestedTernary {
+public class NestedTernary { 
  
 	public static void main(String[] args) { 
 		int a=20,b=15,c=50; 
