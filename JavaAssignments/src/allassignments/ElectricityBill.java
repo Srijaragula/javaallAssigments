@@ -2,7 +2,7 @@ package allassignments;
 import java.util.Scanner;  
     
    
-public class ElectricityBill {     
+public class ElectricityBill {      
   
 	public static void main(String[] args) {   
 		
