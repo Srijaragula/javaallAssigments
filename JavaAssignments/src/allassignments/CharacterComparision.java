@@ -4,7 +4,7 @@ public class CharacterComparision {
 		char ch1='2';      
 		char ch2='5';     
 		System.out.println("Character one is:"+ch1);   
-		System.out.println("Character two is:"+ch2); 
+		System.out.println("Character two is:"+ch2);  
 		
 		if(ch1==ch2) {
 			System.out.println("Both characters are same");
