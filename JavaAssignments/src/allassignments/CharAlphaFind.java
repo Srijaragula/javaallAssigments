@@ -5,7 +5,7 @@ public class CharAlphaFind {
 		Scanner sc=new Scanner(System.in);  
 		System.out.println("Enter a single value:");   
 		String input=sc.next();     
-		char ch=input.CharAt(0); 
+		char ch=input.CharAt(0);  
 		if((ch>='A' && ch<='Z') || (ch>='a' && ch<='z')) {
 			System.out.println("it is an alphabet"); 
 		}
