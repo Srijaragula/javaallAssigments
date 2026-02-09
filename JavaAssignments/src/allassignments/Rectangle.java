@@ -5,7 +5,7 @@ public class Rectangle {
 	private double width;
 	double Area;
 	Rectangle(double l,double w){ 
-		length=l;
+		length=l; 
 		width=w; 
 		 
 	}
