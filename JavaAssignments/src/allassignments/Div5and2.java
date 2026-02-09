@@ -1,7 +1,7 @@
 package allassignments; 
      
 public class Div5and2 {   
-  
+   
 	public static void main(String[] args) {     
 		int s=8;       
 		if(s%5==0 && s%11==0) {  
