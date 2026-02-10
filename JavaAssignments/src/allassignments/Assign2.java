@@ -6,6 +6,6 @@ public class Assign2 {
 		int c=b/3;   
 		int d=c%5;    
 		int e=d*5;
-		System.out.println(e); 		 
+		System.out.println(e); 		  
 	}
 }
