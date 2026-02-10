@@ -1,5 +1,5 @@
 package allassignments;
-    
+     
 public class ColoursArray {     
        
 	public static void main(String[] args) {          
