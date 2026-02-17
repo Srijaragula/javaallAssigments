@@ -1,7 +1,7 @@
 package allassignments; 
     
 public class DriverInsurance {  
-   
+    
 	public static void main(String[] args) {       
 		     
 		String gender="Female";//"male" or "female"    
