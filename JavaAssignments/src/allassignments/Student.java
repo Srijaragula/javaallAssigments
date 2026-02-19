@@ -4,7 +4,7 @@ public class Student {
 	private String name;
 	private int age;  
 	private double GPA=0.0;
-	Student(String n,int a,double g){  
+	Student(String n,int a,double g){   
 		name=n; 
 		age=a;
 		GPA=g;
