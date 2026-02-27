@@ -5,7 +5,7 @@ public class AreavsPerimeter {
 		int breadth=30;     
 		int area=length*breadth;   
 		int perimeter=2*(length+breadth); 
-		System.out.println("Area:" +area); 
+		System.out.println("Area:" +area);  
 		System.out.println("perimeter:" +perimeter);	
 		if(area>perimeter) {
 			System.out.println("area is greater");
